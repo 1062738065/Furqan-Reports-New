@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // https://<username>.github.io/Furqan-Reports/
 export default defineConfig({
   plugins: [react()],
-  base: "/Furqan-Reports/",
+  base: "/Furqan-Reports-New/",
 });
